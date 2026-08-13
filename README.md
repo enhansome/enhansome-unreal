@@ -79,7 +79,7 @@
 ## Projects
 
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 802 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
-* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 441 | 🐛 0 | 🌐 C++ | 📅 2026-03-31 - Multiplayer shooter built using best practices from Lyra.
+* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 440 | 🐛 0 | 🌐 C++ | 📅 2026-03-31 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 368 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,277 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,911 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,912 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 
 ### Blogs
 
