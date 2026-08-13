@@ -1,0 +1,543 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome Unreal Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reasonable Planning AI",
+          "description": "Create an AI using a data driven editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-03T11:35:59Z",
+            "owner": "hollsteinm",
+            "repo": "ReasonablePlanningAI",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charisma SDK",
+          "description": "A tool for building conversational characters into your game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-08T12:08:59Z",
+            "owner": "charisma-ai",
+            "repo": "charisma-sdk-unreal",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PBCharacterMovement",
+          "description": "HL2-style, classic FPS movement for Unreal Engine implemented in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-08T10:55:00Z",
+            "owner": "ProjectBorealis",
+            "repo": "PBCharacterMovement",
+            "stars": 1487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPUD",
+          "description": "Save game state and streaming level persistence solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T09:31:06Z",
+            "owner": "sinbad",
+            "repo": "SPUD",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UE4-CustomGravityPlugin",
+          "description": "Custom gravity plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-04T00:59:55Z",
+            "owner": "HoussineMehnik",
+            "repo": "UE4-CustomGravityPlugin",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ue4-targetsystemplugin",
+          "description": "Dark Souls inspired camera lock on and targeting system plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-17T16:30:14Z",
+            "owner": "mklabs",
+            "repo": "ue4-targetsystemplugin",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VaFogOfWar",
+          "description": "A clear and simple solution of Fog of War for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-11-01T23:04:31Z",
+            "owner": "ufna",
+            "repo": "VaFogOfWar",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SUQS",
+          "description": "Data driven quest system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T12:07:53Z",
+            "owner": "sinbad",
+            "repo": "SUQS",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Gameplay"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VaRest",
+          "description": "REST API plugin for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-11-01T23:02:41Z",
+            "owner": "ufna",
+            "repo": "VaRest",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocketIOClient-Unreal",
+          "description": "Socket.IO client plugin for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-09T01:08:07Z",
+            "owner": "getnamo",
+            "repo": "SocketIOClient-Unreal",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDP-Unreal",
+          "description": "Convenience UDP wrapper for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-10T09:18:42Z",
+            "owner": "getnamo",
+            "repo": "UDP-Unreal",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ObjectDeliverer",
+          "description": "Data transmission and reception library for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-11-30T10:42:52Z",
+            "owner": "AyumaxSoft",
+            "repo": "ObjectDeliverer",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal Fetch",
+          "description": "Fetch API-inspired HTTP client for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-12T09:48:50Z",
+            "owner": "GDi4K",
+            "repo": "unreal-fetch",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCP-Unreal",
+          "description": "Convenience TCP wrapper for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-11T15:18:13Z",
+            "owner": "getnamo",
+            "repo": "TCP-Unreal",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMN2",
+          "description": "Character movement network prediction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T18:22:22Z",
+            "owner": "Reddy-dev",
+            "repo": "SMN2",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Socketer",
+          "description": "A TCP socket blueprint library for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-24T04:06:23Z",
+            "owner": "How2Compute",
+            "repo": "Socketer",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unreal.js",
+          "description": "Javascript runtime built for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-20T09:03:36Z",
+            "owner": "ncsoft",
+            "repo": "Unreal.js",
+            "stars": 3752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealCLR",
+          "description": "Unreal Engine .NET 6 Integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-07T13:29:44Z",
+            "owner": "nxrighthere",
+            "repo": "UnrealCLR",
+            "stars": 3307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal Rust",
+          "description": "Opinionated Rust integration for Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-07T13:41:39Z",
+            "owner": "MaikKlein",
+            "repo": "unreal-rust",
+            "stars": 2247
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Custom Shape Button",
+          "description": "Allows you to make buttons of any shape.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-20T06:03:28Z",
+            "owner": "JanSeliv",
+            "repo": "CustomShapeButton",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDFastBinding",
+          "description": "A versatile and performant alternative to property bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-08T02:12:37Z",
+            "owner": "DoubleDeez",
+            "repo": "MDFastBinding",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Settings Widget Constructor",
+          "description": "Automatically generate UI for your game settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T01:35:50Z",
+            "owner": "JanSeliv",
+            "repo": "SettingsWidgetConstructor",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Houdini Engine",
+          "description": "A plugin to allow integration with Houdini Digital Assets workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:00:06Z",
+            "owner": "sideeffects",
+            "repo": "HoudiniEngineForUnreal",
+            "stars": 1590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultraleap SDK",
+          "description": "Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-26T12:19:42Z",
+            "owner": "ultraleap",
+            "repo": "UnrealPlugin",
+            "stars": 282
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Street Map",
+          "description": "Import OpenStreetMap XML data into your Unreal Engine project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-23T09:52:01Z",
+            "owner": "MikeFricker",
+            "repo": "StreetMap",
+            "stars": 2263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voxel Plugin",
+          "description": "Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-24T10:55:26Z",
+            "owner": "VoxelPlugin",
+            "repo": "VoxelPluginFreeLegacy",
+            "stars": 1751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProceduralDungeon",
+          "description": "A plugin to build procedural dungeons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T17:26:36Z",
+            "owner": "BenPyton",
+            "repo": "ProceduralDungeon",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealSandboxTerrain",
+          "description": "Smooth voxel terrain plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-17T20:55:23Z",
+            "owner": "bw2012",
+            "repo": "UnrealSandboxTerrain",
+            "stars": 387
+          }
+        }
+      ],
+      "title": "World Building"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aura",
+          "description": "An example game built using the Gameplay Ability System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-26T15:44:27Z",
+            "owner": "DruidMech",
+            "repo": "GameplayAbilitySystem_Aura",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eternal Crusade: Resurrection",
+          "description": "Multiplayer shooter built using best practices from Lyra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T21:02:36Z",
+            "owner": "JediKnightChan",
+            "repo": "EternalCrusadeResurrection",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bomber",
+          "description": "Open-source Bomberman multiplayer game made in Unreal Engine 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T00:07:07Z",
+            "owner": "JanSeliv",
+            "repo": "Bomber",
+            "stars": 368
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UE5 Styleguide",
+          "description": "Guidelines for making Unreal Engine projects more consistent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-05T18:32:26Z",
+            "owner": "Allar",
+            "repo": "ue5-style-guide",
+            "stars": 6277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GASDocumentation",
+          "description": "Helps fill in the gaps of the official Gameplay Ability System documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-06T07:07:59Z",
+            "owner": "tranek",
+            "repo": "GASDocumentation",
+            "stars": 5911
+          }
+        }
+      ],
+      "title": "Articles & Documentation"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:56.424Z",
+    "original_repository": "Coop56/awesome-unreal",
+    "original_repository_sha": "8879db9bb6ef58da7d24beef840fcf2bc8d0e7bb",
+    "enhanced_repository": "enhansome/enhansome-unreal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Unreal with stars"
+  }
+}
