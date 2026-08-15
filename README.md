@@ -44,7 +44,7 @@
 ### Networking
 
 * [VaRest](https://github.com/ufna/VaRest) ⚠️ Archived - REST API plugin for Unreal Engine.
-* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 978 | 🐛 87 | 🌐 C++ | 📅 2026-07-09 - Socket.IO client plugin for Unreal Engine.
+* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 978 | 🐛 85 | 🌐 C++ | 📅 2026-08-14 - Socket.IO client plugin for Unreal Engine.
 * [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) ⭐ 382 | 🐛 11 | 🌐 C++ | 📅 2024-12-10 - Convenience UDP wrapper for Unreal Engine.
 * [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) ⚠️ Archived - Data transmission and reception library for Unreal Engine.
 * [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) ⭐ 126 | 🐛 14 | 🌐 C++ | 📅 2024-06-12 - Fetch API-inspired HTTP client for Unreal Engine.
@@ -56,7 +56,7 @@
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,752 | 🐛 159 | 📅 2023-07-20 - Javascript runtime built for Unreal Engine.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) ⭐ 3,308 | 🐛 5 | 🌐 C# | 📅 2023-06-07 - Unreal Engine .NET 6 Integration.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,247 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,248 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -71,9 +71,9 @@
 
 ### World Building
 
-* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,263 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
+* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,264 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,752 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 815 | 🐛 4 | 🌐 C++ | 📅 2026-08-08 - A plugin to build procedural dungeons.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 816 | 🐛 4 | 🌐 C++ | 📅 2026-08-08 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,278 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,912 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,914 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 
 ### Blogs
 
@@ -122,4 +122,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

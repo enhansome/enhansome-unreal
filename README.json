@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-09T01:08:07Z",
+            "last_commit": "2026-08-14T21:13:39Z",
             "owner": "getnamo",
             "repo": "SocketIOClient-Unreal",
             "stars": 978
@@ -289,7 +289,7 @@
             "last_commit": "2026-03-07T13:41:39Z",
             "owner": "MaikKlein",
             "repo": "unreal-rust",
-            "stars": 2247
+            "stars": 2248
           }
         }
       ],
@@ -391,7 +391,7 @@
             "last_commit": "2024-05-23T09:52:01Z",
             "owner": "MikeFricker",
             "repo": "StreetMap",
-            "stars": 2263
+            "stars": 2264
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-08-08T17:26:36Z",
             "owner": "BenPyton",
             "repo": "ProceduralDungeon",
-            "stars": 815
+            "stars": 816
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2024-04-06T07:07:59Z",
             "owner": "tranek",
             "repo": "GASDocumentation",
-            "stars": 5912
+            "stars": 5914
           }
         }
       ],
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:21:37.122Z",
+    "last_updated": "2026-08-15T14:47:20.040Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_sha": "8879db9bb6ef58da7d24beef840fcf2bc8d0e7bb",
     "enhanced_repository": "enhansome/enhansome-unreal",
