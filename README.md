@@ -30,8 +30,8 @@
 
 ### Gameplay
 
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,487 | 🐛 2 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
-* [SPUD](https://github.com/sinbad/SPUD) ⭐ 600 | 🐛 16 | 🌐 C++ | 📅 2026-08-05 - Save game state and streaming level persistence solution.
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,489 | 🐛 2 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+* [SPUD](https://github.com/sinbad/SPUD) ⭐ 603 | 🐛 16 | 🌐 C++ | 📅 2026-08-05 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 354 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 265 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
 * [VaFogOfWar](https://github.com/ufna/VaFogOfWar) ⚠️ Archived - A clear and simple solution of Fog of War for Unreal Engine.
@@ -56,7 +56,7 @@
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,752 | 🐛 159 | 📅 2023-07-20 - Javascript runtime built for Unreal Engine.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) ⭐ 3,308 | 🐛 5 | 🌐 C# | 📅 2023-06-07 - Unreal Engine .NET 6 Integration.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,248 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,247 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -66,21 +66,21 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,590 | 🐛 112 | 🌐 C++ | 📅 2026-08-13 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,590 | 🐛 113 | 🌐 C++ | 📅 2026-08-13 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 13 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,264 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,752 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 816 | 🐛 4 | 🌐 C++ | 📅 2026-08-08 - A plugin to build procedural dungeons.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 817 | 🐛 4 | 🌐 C++ | 📅 2026-08-08 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 802 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 440 | 🐛 0 | 🌐 C++ | 📅 2026-03-31 - Multiplayer shooter built using best practices from Lyra.
-* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 369 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 370 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,278 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,914 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,915 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 
 ### Blogs
 
@@ -122,4 +122,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

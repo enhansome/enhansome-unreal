@@ -53,7 +53,7 @@
             "last_commit": "2025-06-08T10:55:00Z",
             "owner": "ProjectBorealis",
             "repo": "PBCharacterMovement",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T09:31:06Z",
             "owner": "sinbad",
             "repo": "SPUD",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-03-07T13:41:39Z",
             "owner": "MaikKlein",
             "repo": "unreal-rust",
-            "stars": 2248
+            "stars": 2247
           }
         }
       ],
@@ -419,7 +419,7 @@
             "last_commit": "2026-08-08T17:26:36Z",
             "owner": "BenPyton",
             "repo": "ProceduralDungeon",
-            "stars": 816
+            "stars": 817
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2026-07-26T00:07:07Z",
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 369
+            "stars": 370
           }
         }
       ],
@@ -520,7 +520,7 @@
             "last_commit": "2024-04-06T07:07:59Z",
             "owner": "tranek",
             "repo": "GASDocumentation",
-            "stars": 5914
+            "stars": 5915
           }
         }
       ],
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:47:20.040Z",
+    "last_updated": "2026-08-16T14:48:17.323Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_sha": "8879db9bb6ef58da7d24beef840fcf2bc8d0e7bb",
     "enhanced_repository": "enhansome/enhansome-unreal",
