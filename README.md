@@ -39,7 +39,7 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,657 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,656 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4
 
 ### Networking
 
@@ -54,7 +54,7 @@
 
 ### Scripting
 
-* [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,752 | 🐛 159 | 📅 2023-07-20 - Javascript runtime built for Unreal Engine.
+* [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,751 | 🐛 159 | 📅 2023-07-20 - Javascript runtime built for Unreal Engine.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) ⭐ 3,309 | 🐛 5 | 🌐 C# | 📅 2023-06-07 - Unreal Engine .NET 6 Integration.
 * [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,247 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
@@ -73,7 +73,7 @@
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,266 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,752 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 817 | 🐛 5 | 🌐 C++ | 📅 2026-08-17 - A plugin to build procedural dungeons.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 818 | 🐛 4 | 🌐 C++ | 📅 2026-08-18 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,280 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,918 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,921 | 🐛 43 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 
 ### Blogs
 
@@ -122,4 +122,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
