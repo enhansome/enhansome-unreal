@@ -54,7 +54,7 @@
                 "last_commit": "2025-06-08T10:55:00Z",
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1490
+                "stars": 1494
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-05T09:31:06Z",
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 603
+                "stars": 605
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2023-06-07T13:29:44Z",
                 "owner": "nxrighthere",
                 "repo": "UnrealCLR",
-                "stars": 3309
+                "stars": 3310
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-08-13T04:00:06Z",
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1590
+                "stars": 1591
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-06-24T10:55:26Z",
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1752
+                "stars": 1753
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2026-08-18T14:19:17Z",
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 818
+                "stars": 819
               }
             },
             {
@@ -490,7 +490,7 @@
             "last_commit": "2024-02-26T15:44:27Z",
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 802
+            "stars": 803
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-07-26T00:07:07Z",
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 371
+            "stars": 373
           }
         }
       ],
@@ -558,7 +558,7 @@
                 "last_commit": "2024-04-06T07:07:59Z",
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5921
+                "stars": 5924
               }
             }
           ],
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:01:14.358Z",
+    "last_updated": "2026-08-20T15:04:48.072Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
     "original_repository_sha": "8879db9bb6ef58da7d24beef840fcf2bc8d0e7bb",
