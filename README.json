@@ -104,21 +104,6 @@
             },
             {
               "node_type": "item",
-              "title": "VaFogOfWar",
-              "description": "A clear and simple solution of Fog of War for Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 192523036,
-                "language": "C++",
-                "last_commit": "2024-11-01T23:04:31Z",
-                "owner": "ufna",
-                "repo": "VaFogOfWar",
-                "stars": 223
-              }
-            },
-            {
-              "node_type": "item",
               "title": "SUQS",
               "description": "Data driven quest system.",
               "children": [],
@@ -139,21 +124,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "VaRest",
-              "description": "REST API plugin for Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 21077642,
-                "language": "C++",
-                "last_commit": "2024-11-01T23:02:41Z",
-                "owner": "ufna",
-                "repo": "VaRest",
-                "stars": 1133
-              }
-            },
             {
               "node_type": "item",
               "title": "SocketIOClient-Unreal",
@@ -181,22 +151,7 @@
                 "last_commit": "2024-12-10T09:18:42Z",
                 "owner": "getnamo",
                 "repo": "UDP-Unreal",
-                "stars": 382
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ObjectDeliverer",
-              "description": "Data transmission and reception library for Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 164864304,
-                "language": "C++",
-                "last_commit": "2025-11-30T10:42:52Z",
-                "owner": "AyumaxSoft",
-                "repo": "ObjectDeliverer",
-                "stars": 191
+                "stars": 383
               }
             },
             {
@@ -269,7 +224,7 @@
             {
               "node_type": "item",
               "title": "Unreal.js",
-              "description": "Javascript runtime built for Unreal Engine.",
+              "description": "JavaScript runtime built for Unreal Engine.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -279,21 +234,6 @@
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
                 "stars": 3751
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "UnrealCLR",
-              "description": "Unreal Engine .NET 6 Integration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 272471242,
-                "language": "C#",
-                "last_commit": "2023-06-07T13:29:44Z",
-                "owner": "nxrighthere",
-                "repo": "UnrealCLR",
-                "stars": 3310
               }
             },
             {
@@ -419,7 +359,7 @@
                 "last_commit": "2024-05-23T09:52:01Z",
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2267
+                "stars": 2266
               }
             },
             {
@@ -449,7 +389,7 @@
                 "last_commit": "2026-08-18T14:19:17Z",
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 819
+                "stars": 820
               }
             },
             {
@@ -480,6 +420,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Action Roguelike",
+          "description": "Co-op action roguelike sample game built in Unreal Engine 5 and C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293583556,
+            "language": "C++",
+            "last_commit": "2026-08-18T15:45:23Z",
+            "owner": "tomlooman",
+            "repo": "ActionRoguelike",
+            "stars": 4561
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Aura",
           "description": "An example game built using the Gameplay Ability System.",
           "children": [],
@@ -490,7 +445,7 @@
             "last_commit": "2024-02-26T15:44:27Z",
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -522,6 +477,21 @@
             "repo": "Bomber",
             "stars": 373
           }
+        },
+        {
+          "node_type": "item",
+          "title": "ALIS",
+          "description": "In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1179036752,
+            "language": "C++",
+            "last_commit": "2026-08-19T07:59:27Z",
+            "owner": "fallintodusk",
+            "repo": "alis",
+            "stars": 14
+          }
         }
       ],
       "title": "Projects"
@@ -543,7 +513,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6282
+                "stars": 6281
               }
             },
             {
@@ -571,10 +541,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:04:48.072Z",
+    "last_updated": "2026-08-21T15:03:28.292Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
-    "original_repository_sha": "8879db9bb6ef58da7d24beef840fcf2bc8d0e7bb",
+    "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
     "enhanced_repository": "enhansome/enhansome-unreal",
     "enhanced_repository_description": null,
     "title": "Awesome Unreal with stars"
