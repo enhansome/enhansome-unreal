@@ -513,7 +513,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6282
+                "stars": 6283
               }
             },
             {
@@ -528,7 +528,7 @@
                 "last_commit": "2024-04-06T07:07:59Z",
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5925
+                "stars": 5929
               }
             }
           ],
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:46:45.791Z",
+    "last_updated": "2026-08-23T14:48:46.681Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
     "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
