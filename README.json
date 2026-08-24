@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 331984761,
                 "language": "C++",
-                "last_commit": "2026-08-05T09:31:06Z",
+                "last_commit": "2026-08-24T10:09:28Z",
                 "owner": "sinbad",
                 "repo": "SPUD",
                 "stars": 605
@@ -121,6 +121,28 @@
           "description": null,
           "node_type": "group",
           "title": "Gameplay"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ALS-Community",
+              "description": "Replicated and optimized community version of Advanced Locomotion System V4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260955344,
+                "language": "C++",
+                "last_commit": "2024-07-10T21:38:04Z",
+                "owner": "PanicPetal",
+                "repo": "ALS-Community",
+                "stars": 2661
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Locomotion"
         },
         {
           "children": [
@@ -319,10 +341,10 @@
                 "archived": false,
                 "id": 18605826,
                 "language": "C++",
-                "last_commit": "2026-08-13T04:00:06Z",
+                "last_commit": "2026-08-24T04:00:06Z",
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1591
+                "stars": 1592
               }
             },
             {
@@ -460,7 +482,7 @@
             "last_commit": "2026-08-21T23:08:46Z",
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -475,7 +497,7 @@
             "last_commit": "2026-07-26T00:07:07Z",
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 373
+            "stars": 376
           }
         },
         {
@@ -490,7 +512,7 @@
             "last_commit": "2026-08-21T17:55:46Z",
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 14
+            "stars": 15
           }
         }
       ],
@@ -513,7 +535,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6283
+                "stars": 6284
               }
             },
             {
@@ -528,7 +550,7 @@
                 "last_commit": "2024-04-06T07:07:59Z",
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5929
+                "stars": 5931
               }
             }
           ],
@@ -541,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:48:46.681Z",
+    "last_updated": "2026-08-24T14:33:52.852Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
     "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
