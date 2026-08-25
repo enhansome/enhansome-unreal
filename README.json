@@ -136,7 +136,7 @@
                 "last_commit": "2024-07-10T21:38:04Z",
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2661
+                "stars": 2662
               }
             }
           ],
@@ -341,7 +341,7 @@
                 "archived": false,
                 "id": 18605826,
                 "language": "C++",
-                "last_commit": "2026-08-24T04:00:06Z",
+                "last_commit": "2026-08-25T04:00:06Z",
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
                 "stars": 1592
@@ -396,7 +396,7 @@
                 "last_commit": "2026-06-24T10:55:26Z",
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1754
+                "stars": 1755
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-02-17T20:55:23Z",
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 387
+                "stars": 388
               }
             }
           ],
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-18T15:45:23Z",
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4563
+            "stars": 4564
           }
         },
         {
@@ -535,7 +535,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6284
+                "stars": 6285
               }
             },
             {
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:10:09.313Z",
+    "last_updated": "2026-08-25T06:23:41.039Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
     "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
