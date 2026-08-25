@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-24T10:09:28Z",
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 605
+                "stars": 607
               }
             },
             {
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 189371379,
                 "language": "C++",
-                "last_commit": "2026-08-18T14:19:17Z",
+                "last_commit": "2026-08-25T09:58:47Z",
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
                 "stars": 820
@@ -467,7 +467,7 @@
             "last_commit": "2024-02-26T15:44:27Z",
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 804
+            "stars": 805
           }
         },
         {
@@ -509,7 +509,7 @@
             "archived": false,
             "id": 1179036752,
             "language": "C++",
-            "last_commit": "2026-08-21T17:55:46Z",
+            "last_commit": "2026-08-25T12:54:16Z",
             "owner": "fallintodusk",
             "repo": "alis",
             "stars": 15
@@ -535,7 +535,7 @@
                 "last_commit": "2023-10-05T18:32:26Z",
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6285
+                "stars": 6284
               }
             },
             {
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:41.039Z",
+    "last_updated": "2026-08-25T15:13:59.679Z",
     "original_repository": "Coop56/awesome-unreal",
     "original_repository_id": 391205692,
     "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
