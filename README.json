@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Designer Driven Unreal Engine 4 & 5 - UE4 / UE5 - AIModule Extension Plugin using Data Driven Design for Utility AI and Goal Oriented Action Planning - GOAP",
+                "homepage": null,
                 "id": 523499995,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-03T11:35:59Z",
+                "open_issues": 0,
                 "owner": "hollsteinm",
                 "repo": "ReasonablePlanningAI",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Charisma SDK for Unreal Engine 4.",
+                "homepage": null,
                 "id": 302638496,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-09-08T12:08:59Z",
+                "open_issues": 1,
                 "owner": "charisma-ai",
                 "repo": "charisma-sdk-unreal",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -51,12 +61,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HL2-style, classic FPS movement for Unreal Engine implemented in C++",
+                "homepage": "https://www.projectborealis.com/movement",
                 "id": 188458872,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-06-08T10:55:00Z",
+                "open_issues": 2,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1492
+                "stars": 1493,
+                "topics": [
+                  "half-life",
+                  "half-life-2",
+                  "quake",
+                  "source-engine",
+                  "ue4",
+                  "ue4-plugin",
+                  "ue4-plugins",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-engine-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -67,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Steve's Persistent Unreal Data library",
+                "homepage": null,
                 "id": 331984761,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:09:28Z",
+                "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 608
+                "stars": 608,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -83,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unreal Engine 4 : Custom Gravity Plugin",
+                "homepage": "https://unrealengineresources.com",
                 "id": 42888799,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-04T00:59:55Z",
+                "open_issues": 9,
                 "owner": "HoussineMehnik",
                 "repo": "UE4-CustomGravityPlugin",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -99,12 +136,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dark Souls inspired Camera Lock On / Targeting system plugin",
+                "homepage": "https://www.unrealengine.com/marketplace/target-system-component-plugin",
                 "id": 163508937,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-17T16:30:14Z",
+                "open_issues": 11,
                 "owner": "mklabs",
                 "repo": "ue4-targetsystemplugin",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-engine-plugin",
+                  "unreal-marketplace"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -115,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Steve's Unreal Quest System: data-driven quest system for Unreal Engine",
+                "homepage": null,
                 "id": 344882161,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-20T12:07:53Z",
+                "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -138,12 +191,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.4 with additional features & bug fixes",
+                "homepage": null,
                 "id": 260955344,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-10T21:38:04Z",
+                "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2665
+                "stars": 2665,
+                "topics": [
+                  "advanced-locomotion-system",
+                  "als",
+                  "als-community",
+                  "alsv4-cpp",
+                  "animation",
+                  "blueprint",
+                  "cpp",
+                  "game-development",
+                  "locomotion",
+                  "optimization",
+                  "plug",
+                  "ue4",
+                  "ue4-plugin",
+                  "ue5",
+                  "ue5-plugin",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-engine-5",
+                  "unreal-engine-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -161,12 +239,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Socket.IO client plugin for the Unreal Engine.",
+                "homepage": null,
                 "id": 58654645,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T21:13:39Z",
+                "open_issues": 85,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 977
+                "stars": 977,
+                "topics": [
+                  "nodejs",
+                  "plugin",
+                  "socketio",
+                  "ue4",
+                  "ue5",
+                  "unrealengine",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -177,12 +268,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convenience UDP wrapper for the Unreal Engine.",
+                "homepage": null,
                 "id": 128734197,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-12-10T09:18:42Z",
+                "open_issues": 11,
                 "owner": "getnamo",
                 "repo": "UDP-Unreal",
-                "stars": 383
+                "stars": 383,
+                "topics": [
+                  "networking",
+                  "real-time",
+                  "udp",
+                  "ue4",
+                  "ue5",
+                  "unreal"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -193,12 +296,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Fetch API inspired HTTP client for Unreal Engine. Supports both Blueprints & C++.",
+                "homepage": "https://www.unrealengine.com/marketplace/en-US/product/fetch-a-simple-http-client",
                 "id": 322914142,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-06-12T09:48:50Z",
+                "open_issues": 14,
                 "owner": "GDi4K",
                 "repo": "unreal-fetch",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "blueprint",
+                  "cpp",
+                  "http",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -209,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convenience TCP wrapper for Unreal Engine",
+                "homepage": null,
                 "id": 153186454,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-07-11T15:18:13Z",
+                "open_issues": 6,
                 "owner": "getnamo",
                 "repo": "TCP-Unreal",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -225,12 +343,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Character Movement Network Prediction easily accessible in UE5 Blueprints!",
+                "homepage": null,
                 "id": 364962839,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-26T18:22:22Z",
+                "open_issues": 0,
                 "owner": "Reddy-dev",
                 "repo": "SMN2",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "game-networking",
+                  "movement-networking",
+                  "multiplayer-game",
+                  "networking",
+                  "prediction"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -241,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TCP socket blueprint library for Unreal Engine 4/5!",
+                "homepage": null,
                 "id": 85463791,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-24T04:06:23Z",
+                "open_issues": 0,
                 "owner": "How2Compute",
                 "repo": "Socketer",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -264,12 +398,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unreal.js: Javascript runtime built for UnrealEngine",
+                "homepage": null,
                 "id": 46452745,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-20T09:03:36Z",
+                "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3750
+                "stars": 3750,
+                "topics": [
+                  "javascript",
+                  "plugin",
+                  "scripting",
+                  "unrealengine"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -280,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust integration for Unreal Engine 5",
+                "homepage": null,
                 "id": 442194005,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-07T13:41:39Z",
+                "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2248
+                "stars": 2248,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -303,12 +452,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source plugin that allows to make buttons of any shape in UE5.7",
+                "homepage": null,
                 "id": 633207332,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-20T06:03:28Z",
+                "open_issues": 2,
                 "owner": "JanSeliv",
                 "repo": "CustomShapeButton",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "button",
+                  "button-widget",
+                  "c-plus-plus",
+                  "cpp",
+                  "custom-shape",
+                  "game-development",
+                  "plugin",
+                  "plugin-repo",
+                  "ue5",
+                  "ue5-plugin",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-5",
+                  "unreal-engine-code-plugin",
+                  "unreal-engine-cpp-plugin",
+                  "unreal-engine-plugin",
+                  "unreal-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -319,12 +491,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source plugin for UI generation of game settings from data table in UE5.7",
+                "homepage": null,
                 "id": 633179480,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-30T01:35:50Z",
+                "open_issues": 1,
                 "owner": "JanSeliv",
                 "repo": "SettingsWidgetConstructor",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "game-development",
+                  "plugin",
+                  "plugin-repo",
+                  "settings",
+                  "settings-management",
+                  "ue5",
+                  "ue5-plugin",
+                  "ui",
+                  "ui-generation",
+                  "ui-generator",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-5",
+                  "unreal-engine-code-plugin",
+                  "unreal-engine-cpp-plugin",
+                  "unreal-engine-plugin",
+                  "unreal-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -335,12 +532,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A versatile and performant alternative to property bindings for designer-friendly workflows in Unreal Engine 5.1+",
+                "homepage": null,
                 "id": 453867457,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-09-08T02:12:37Z",
+                "open_issues": 6,
                 "owner": "DoubleDeez",
                 "repo": "MDFastBinding",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "binding",
+                  "ue5-plugin",
+                  "umg",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -358,12 +565,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Houdini Engine Plugin for Unreal Engine.",
+                "homepage": "http://www.sidefx.com/unreal",
                 "id": 18605826,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T04:00:07Z",
+                "open_issues": 113,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1594
+                "stars": 1594,
+                "topics": [
+                  "houdini",
+                  "houdini-digital-assets",
+                  "houdini-engine",
+                  "plugin",
+                  "ue4",
+                  "ue5",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-engine-5"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -374,12 +597,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultraleap SDK for the Unreal Engine.",
+                "homepage": null,
                 "id": 131347490,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-06-26T12:19:42Z",
+                "open_issues": 14,
                 "owner": "ultraleap",
                 "repo": "UnrealPlugin",
-                "stars": 282
+                "stars": 282,
+                "topics": [
+                  "blueprint",
+                  "cpp",
+                  "plugin",
+                  "ultraleap",
+                  "unreal"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -397,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import OpenStreetMap data into Unreal Engine",
+                "homepage": null,
                 "id": 77765042,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-05-23T09:52:01Z",
+                "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2267
+                "stars": 2267,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -413,12 +652,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voxel Plugin Legacy for Unreal Engine",
+                "homepage": "https://voxelplugin.com",
                 "id": 97856074,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-06-24T10:55:26Z",
+                "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1755
+                "stars": 1756,
+                "topics": [
+                  "terrain",
+                  "transvoxel",
+                  "unreal-engine",
+                  "voxel"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -429,12 +678,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an Unreal Engine 4/5 plugin to generate procedural dungeon.",
+                "homepage": null,
                 "id": 189371379,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T09:58:47Z",
+                "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 821
+                "stars": 821,
+                "topics": [
+                  "cpp",
+                  "dungeon-generator",
+                  "game-development",
+                  "plugin",
+                  "procedural",
+                  "procedural-generation",
+                  "ue4",
+                  "ue4-plugin",
+                  "ue5",
+                  "ue5-plugin",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-engine-5",
+                  "unreal-engine-code-plugin",
+                  "unreal-engine-cpp-plugin",
+                  "unreal-engine-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -445,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unreal Engine smooth voxel terrain plugin",
+                "homepage": "http://unrealsandbox.github.io/",
                 "id": 64689131,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-17T20:55:23Z",
+                "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -472,12 +749,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Co-op Action Roguelike in Unreal Engine C++",
+            "homepage": "https://tomlooman.com/unreal-engine-sample-game-action-roguelike",
             "id": 293583556,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-18T15:45:23Z",
+            "open_issues": 3,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4569
+            "stars": 4569,
+            "topics": [
+              "3d",
+              "c-plus-plus",
+              "cpp",
+              "game",
+              "game-ai",
+              "game-development",
+              "multiplayer-networking",
+              "roguelike",
+              "tutorial",
+              "ue5",
+              "ue5-game",
+              "unreal-engine",
+              "unreal-engine-5"
+            ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
         },
@@ -488,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online repo for Gameplay Ability System Course",
+            "homepage": null,
             "id": 618176311,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-02-26T15:44:27Z",
+            "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
         },
@@ -504,12 +805,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unreal Engine 5 multiplayer shooter C++ project, resurrection of Warhammer 40K: Eternal Crusade. Developed using \"UE best practices\" from Lyra for a more complex behaviour",
+            "homepage": null,
             "id": 538119283,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-28T22:33:32Z",
+            "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "game",
+              "game-development",
+              "lyra",
+              "lyra-starter-game",
+              "ue4",
+              "ue4-game",
+              "ue5",
+              "ue5-game",
+              "ue5-project",
+              "ue5-shooter",
+              "unreal-engine",
+              "unreal-engine-4",
+              "unreal-engine-5",
+              "unreal-games"
+            ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
         },
@@ -520,12 +841,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete Steam multiplayer game with Game Feature Plugins modding in UE5.7",
+            "homepage": "https://store.steampowered.com/app/1873240/Bomberrage/",
             "id": 188085654,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-26T00:07:07Z",
+            "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "bomberman",
+              "bomberman-game",
+              "dynablaster",
+              "game",
+              "game-development",
+              "gameplay-ability-system",
+              "modding",
+              "multiplayer",
+              "proce",
+              "ue5",
+              "ue5-project",
+              "unreal",
+              "unreal-engine",
+              "unreal-engine-5",
+              "unrealengine",
+              "unrealengine5"
+            ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
         },
@@ -536,12 +879,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Unreal Engine survival game and modular game architecture reference - plugin-based C++ core, data-driven workflows.",
+            "homepage": "https://fall.is/",
             "id": 1179036752,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:29:45Z",
+            "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cpp",
+              "data-driven-design",
+              "dialogue-systems",
+              "game-architecture",
+              "game-development",
+              "gamedev",
+              "inventory-system",
+              "json",
+              "modular-architecture",
+              "mvvm",
+              "open-source-game",
+              "open-world-game",
+              "plugin-architecture",
+              "survival-game",
+              "ue5",
+              "ue5-project",
+              "ui-framework",
+              "unreal-engine",
+              "unreal-engine-5",
+              "unreal-engine-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
         }
@@ -560,12 +929,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt to make Unreal Engine 4 projects more consistent",
+                "homepage": "http://ue5.style",
                 "id": 63004853,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-05T18:32:26Z",
+                "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6289
+                "stars": 6289,
+                "topics": [
+                  "blueprint",
+                  "lint",
+                  "linter",
+                  "linters",
+                  "linting",
+                  "naming-conventions",
+                  "style-guide",
+                  "styleguide",
+                  "udk",
+                  "udk4",
+                  "ue4",
+                  "unreal",
+                  "unreal-engine",
+                  "unreal-engine-4",
+                  "unreal-marketplace",
+                  "unrealengine"
+                ]
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             },
@@ -576,12 +967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.",
+                "homepage": null,
                 "id": 201692465,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-06T07:07:59Z",
+                "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5933
+                "stars": 5933,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
             }
@@ -595,15 +991,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:54.166Z",
+    "last_updated": "2026-08-29T04:48:55.982Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Unreal Engine 5",
+      "homepage": null,
       "id": 391205692,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-21T01:49:29Z",
+      "open_issues": 2,
       "owner": "Coop56",
       "repo": "awesome-unreal",
-      "stars": 226
+      "stars": 226,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-development",
+        "hacktoberfest",
+        "ue5",
+        "unreal-engine",
+        "unreal-engine-5"
+      ]
     },
     "original_repository_sha": "11e4a95f95fcdebfe8467a78fe8bd36b24bfe538",
     "enhanced_repository": "enhansome/enhansome-unreal",
