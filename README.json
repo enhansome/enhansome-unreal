@@ -574,7 +574,7 @@
                 "open_issues": 113,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1594,
+                "stars": 1596,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -758,7 +758,7 @@
             "open_issues": 3,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4570,
+            "stars": 4571,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 804,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -884,7 +884,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:29:45Z",
+            "last_commit": "2026-08-29T18:37:22Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -976,7 +976,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5934,
+                "stars": 5935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:46:24.844Z",
+    "last_updated": "2026-08-30T18:08:21.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

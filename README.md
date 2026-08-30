@@ -63,7 +63,7 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,594 | 🐛 113 | 🌐 C++ | 📅 2026-08-26 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,596 | 🐛 113 | 🌐 C++ | 📅 2026-08-26 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 
 ### World Building
@@ -75,11 +75,11 @@
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,570 | 🐛 3 | 🌐 C++ | 📅 2026-08-18 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 804 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,571 | 🐛 3 | 🌐 C++ | 📅 2026-08-18 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 805 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 442 | 🐛 0 | 🌐 C++ | 📅 2026-08-28 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 379 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-08-28 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-08-29 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -87,7 +87,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,289 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,934 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,935 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
 * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine) - The official Unreal Engine 5 documentation.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
