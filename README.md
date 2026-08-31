@@ -39,11 +39,11 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,665 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,667 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
-* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 977 | 🐛 85 | 🌐 C++ | 📅 2026-08-14 - Socket.IO client plugin for Unreal Engine.
+* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 977 | 🐛 87 | 🌐 C++ | 📅 2026-08-14 - Socket.IO client plugin for Unreal Engine.
 * [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) ⭐ 383 | 🐛 11 | 🌐 C++ | 📅 2024-12-10 - Convenience UDP wrapper for Unreal Engine.
 * [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) ⭐ 126 | 🐛 14 | 🌐 C++ | 📅 2024-06-12 - Fetch API-inspired HTTP client for Unreal Engine.
 * [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) ⭐ 118 | 🐛 6 | 🌐 C++ | 📅 2025-07-11 - Convenience TCP wrapper for Unreal Engine.
@@ -53,7 +53,7 @@
 ### Scripting
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,750 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,248 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,249 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -69,14 +69,14 @@
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,267 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,756 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,757 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 821 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 388 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
 * [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,571 | 🐛 3 | 🌐 C++ | 📅 2026-08-18 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 805 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 806 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 442 | 🐛 0 | 🌐 C++ | 📅 2026-08-28 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 379 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-08-29 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
@@ -86,8 +86,8 @@
 
 ### Articles & Documentation
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,289 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,935 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,290 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,937 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
 * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine) - The official Unreal Engine 5 documentation.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
