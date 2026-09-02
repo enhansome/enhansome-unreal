@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 608,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2668,
+                "stars": 2669,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -571,10 +571,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T04:00:07Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1596,
+                "stars": 1598,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -640,7 +640,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -661,7 +661,7 @@
                 "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1757,
+                "stars": 1758,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -846,11 +846,11 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-07-26T00:07:07Z",
+            "last_commit": "2026-09-01T23:29:00Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 379,
+            "stars": 381,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -976,7 +976,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5938,
+                "stars": 5939,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:54:38.599Z",
+    "last_updated": "2026-09-02T17:58:22.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
