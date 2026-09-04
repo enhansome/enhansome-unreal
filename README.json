@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1494,
+                "stars": 1493,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 609,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -570,11 +570,11 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T04:00:07Z",
+                "last_commit": "2026-09-03T20:01:57Z",
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -661,7 +661,7 @@
                 "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1758,
+                "stars": 1759,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -687,7 +687,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 822,
+                "stars": 824,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -758,7 +758,7 @@
             "open_issues": 3,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4574,
+            "stars": 4575,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6291,
+                "stars": 6290,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:57:01.827Z",
+    "last_updated": "2026-09-04T17:42:06.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1000,7 +1000,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-21T01:49:29Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Coop56",
       "repo": "awesome-unreal",
       "stars": 229,
