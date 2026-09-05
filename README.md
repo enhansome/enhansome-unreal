@@ -35,7 +35,7 @@
 * [SPUD](https://github.com/sinbad/SPUD) ⭐ 610 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 354 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 265 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
-* [SUQS](https://github.com/sinbad/SUQS) ⭐ 179 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - Data driven quest system.
+* [SUQS](https://github.com/sinbad/SUQS) ⭐ 179 | 🐛 1 | 🌐 C++ | 📅 2026-07-20 - Data driven quest system.
 
 ### Locomotion
 
@@ -69,24 +69,24 @@
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,759 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,760 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 824 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 386 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,575 | 🐛 3 | 🌐 C++ | 📅 2026-08-18 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,576 | 🐛 4 | 🌐 C++ | 📅 2026-08-18 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 806 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 442 | 🐛 0 | 🌐 C++ | 📅 2026-08-28 - Multiplayer shooter built using best practices from Lyra.
-* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-03 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-08-29 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-05 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-09-04 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
 
 ### Articles & Documentation
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,290 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,291 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,943 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

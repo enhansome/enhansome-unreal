@@ -169,7 +169,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-20T12:07:53Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "sinbad",
                 "repo": "SUQS",
                 "stars": 179,
@@ -661,7 +661,7 @@
                 "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -755,10 +755,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-08-18T15:45:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4575,
+            "stars": 4576,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-03T01:11:39Z",
+            "last_commit": "2026-09-05T12:11:42Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -884,7 +884,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T18:37:22Z",
+            "last_commit": "2026-09-04T20:47:11Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6290,
+                "stars": 6291,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:42:06.328Z",
+    "last_updated": "2026-09-05T16:53:58.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
