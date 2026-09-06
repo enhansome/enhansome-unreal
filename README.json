@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 610,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -124,7 +124,7 @@
                 "open_issues": 9,
                 "owner": "HoussineMehnik",
                 "repo": "UE4-CustomGravityPlugin",
-                "stars": 354,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2669,
+                "stars": 2670,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -754,11 +754,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-18T15:45:23Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T03:04:30Z",
+            "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4576,
+            "stars": 4577,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6291,
+                "stars": 6293,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -976,7 +976,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5943,
+                "stars": 5944,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:53:58.722Z",
+    "last_updated": "2026-09-06T17:13:44.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
