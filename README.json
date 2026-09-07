@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 609,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -168,8 +168,8 @@
                 "id": 344882161,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-07-20T12:07:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-07T09:20:21Z",
+                "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
                 "stars": 179,
@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -661,7 +661,7 @@
                 "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4577,
+            "stars": 4579,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T12:11:42Z",
+            "last_commit": "2026-09-06T21:25:18Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6293,
+                "stars": 6294,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:13:44.431Z",
+    "last_updated": "2026-09-07T18:48:08.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
