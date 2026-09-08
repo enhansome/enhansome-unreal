@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1602,
+                "stars": 1603,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 806,
+            "stars": 807,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:25:18Z",
+            "last_commit": "2026-09-07T22:43:25Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -888,7 +888,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "cpp",
               "data-driven-design",
@@ -976,7 +976,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5944,
+                "stars": 5945,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:48:08.206Z",
+    "last_updated": "2026-09-08T17:59:23.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

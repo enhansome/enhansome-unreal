@@ -53,7 +53,7 @@
 ### Scripting
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,750 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,249 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,250 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -63,7 +63,7 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,602 | 🐛 114 | 🌐 C++ | 📅 2026-09-03 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,603 | 🐛 114 | 🌐 C++ | 📅 2026-09-03 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 
 ### World Building
@@ -76,10 +76,10 @@
 ## Projects
 
 * [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,579 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 806 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 807 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 442 | 🐛 0 | 🌐 C++ | 📅 2026-08-28 - Multiplayer shooter built using best practices from Lyra.
-* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-06 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 15 | 🐛 5 | 🌐 C++ | 📅 2026-09-04 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-07 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 16 | 🐛 5 | 🌐 C++ | 📅 2026-09-04 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -87,7 +87,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,294 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,944 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,945 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
 * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine) - The official Unreal Engine 5 documentation.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
