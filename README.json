@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2670,
+                "stars": 2671,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3750,
+                "stars": 3749,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4579,
+            "stars": 4582,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -814,7 +814,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "game",
               "game-development",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6294,
+                "stars": 6295,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -976,7 +976,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5945,
+                "stars": 5947,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:59:23.852Z",
+    "last_updated": "2026-09-09T17:53:42.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
