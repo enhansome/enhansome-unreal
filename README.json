@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2671,
+                "stars": 2673,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -461,7 +461,7 @@
                 "open_issues": 2,
                 "owner": "JanSeliv",
                 "repo": "CustomShapeButton",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "button",
                   "button-widget",
@@ -726,7 +726,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4582,
+            "stars": 4583,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -938,7 +938,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6295,
+                "stars": 6296,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:53:42.504Z",
+    "last_updated": "2026-09-10T17:46:50.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

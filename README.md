@@ -39,7 +39,7 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,671 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,673 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
@@ -57,7 +57,7 @@
 
 ### UI
 
-* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 181 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
+* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 182 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
 * [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) ⭐ 137 | 🐛 1 | 🌐 C++ | 📅 2026-06-30 - Automatically generate UI for your game settings.
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) ⭐ 136 | 🐛 6 | 🌐 C++ | 📅 2024-09-08 - A versatile and performant alternative to property bindings.
 
@@ -71,11 +71,11 @@
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,761 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 824 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - A plugin to build procedural dungeons.
-* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 386 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,582 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,583 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 807 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 443 | 🐛 0 | 🌐 C++ | 📅 2026-08-28 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-07 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
@@ -86,7 +86,7 @@
 
 ### Articles & Documentation
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,295 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,296 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,947 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
