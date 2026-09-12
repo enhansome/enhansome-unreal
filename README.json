@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1604,
+                "stars": 1605,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -640,7 +640,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -687,7 +687,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 824,
+                "stars": 825,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -726,7 +726,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-07T22:43:25Z",
+            "last_commit": "2026-09-12T01:07:25Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -879,37 +879,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source Unreal Engine survival game and modular game architecture reference - plugin-based C++ core, data-driven workflows.",
+            "description": "Open-source Unreal Engine 5 world-generation framework and survival-game prototype. Real geography rebuilt as playable, streamed worlds through a modular, data-driven pipeline.",
             "homepage": "https://fall.is/",
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T12:43:13Z",
+            "last_commit": "2026-09-11T20:04:08Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "cpp",
+              "data-driven",
               "data-driven-design",
               "dialogue-systems",
               "game-architecture",
               "game-development",
               "gamedev",
+              "geospatial",
               "inventory-system",
-              "json",
               "modular-architecture",
-              "mvvm",
-              "open-source-game",
               "open-world-game",
               "plugin-architecture",
+              "procedural-generation",
               "survival-game",
-              "ue5",
-              "ue5-project",
               "ui-framework",
               "unreal-engine",
               "unreal-engine-5",
-              "unreal-engine-plugin"
+              "unreal-engine-plugin",
+              "world-generation"
             ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -938,7 +937,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6299,
+                "stars": 6302,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -976,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5947,
+                "stars": 5948,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -991,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:48:57.649Z",
+    "last_updated": "2026-09-12T17:20:58.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
