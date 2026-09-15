@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3747,
+                "stars": 3746,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4585,
+            "stars": 4586,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -814,7 +814,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "game",
               "game-development",
@@ -850,7 +850,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 381,
+            "stars": 383,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -884,7 +884,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T20:04:08Z",
+            "last_commit": "2026-09-15T15:25:58Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:31:22.152Z",
+    "last_updated": "2026-09-15T18:22:15.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

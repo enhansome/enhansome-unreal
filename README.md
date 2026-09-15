@@ -52,7 +52,7 @@
 
 ### Scripting
 
-* [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,747 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
+* [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,746 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
 * [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,250 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
@@ -75,11 +75,11 @@
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,585 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,586 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 809 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
-* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 443 | 🐛 0 | 🌐 C++ | 📅 2026-09-14 - Multiplayer shooter built using best practices from Lyra.
-* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 381 | 🐛 0 | 🌐 C++ | 📅 2026-09-12 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 18 | 🐛 5 | 🌐 C++ | 📅 2026-09-11 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 444 | 🐛 0 | 🌐 C++ | 📅 2026-09-14 - Multiplayer shooter built using best practices from Lyra.
+* [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 383 | 🐛 0 | 🌐 C++ | 📅 2026-09-12 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 18 | 🐛 5 | 🌐 C++ | 📅 2026-09-15 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
