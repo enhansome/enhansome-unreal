@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1494,
+                "stars": 1493,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 809,
+            "stars": 810,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -810,7 +810,7 @@
             "id": 538119283,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-14T12:22:04Z",
+            "last_commit": "2026-09-16T00:01:12Z",
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
@@ -937,7 +937,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6306,
+                "stars": 6310,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -975,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5947,
+                "stars": 5950,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:22:15.286Z",
+    "last_updated": "2026-09-16T18:17:48.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
