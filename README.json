@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2673,
+                "stars": 2674,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1605,
+                "stars": 1604,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -640,7 +640,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2269,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -661,7 +661,7 @@
                 "open_issues": 273,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1761,
+                "stars": 1762,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -687,7 +687,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 825,
+                "stars": 826,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -726,7 +726,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 388,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4591,
+            "stars": 4592,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -934,10 +934,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-10-05T18:32:26Z",
-                "open_issues": 48,
+                "open_issues": 51,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6312,
+                "stars": 6311,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:24:57.104Z",
+    "last_updated": "2026-09-18T17:46:05.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

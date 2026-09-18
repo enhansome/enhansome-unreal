@@ -31,7 +31,7 @@
 
 ### Gameplay
 
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,493 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,494 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
 * [SPUD](https://github.com/sinbad/SPUD) ⭐ 610 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 265 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
@@ -39,7 +39,7 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,673 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,674 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
@@ -53,7 +53,7 @@
 ### Scripting
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,746 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,250 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,249 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -63,19 +63,19 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,605 | 🐛 114 | 🌐 C++ | 📅 2026-09-03 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,604 | 🐛 114 | 🌐 C++ | 📅 2026-09-03 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 
 ### World Building
 
-* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,269 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,761 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 825 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - A plugin to build procedural dungeons.
-* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 388 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
+* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,762 | 🐛 273 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 826 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - A plugin to build procedural dungeons.
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,591 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,592 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 810 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 444 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 383 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
@@ -86,7 +86,7 @@
 
 ### Articles & Documentation
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,312 | 🐛 48 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,311 | 🐛 51 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,952 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
@@ -131,4 +131,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
