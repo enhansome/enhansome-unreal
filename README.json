@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2676,
+                "stars": 2677,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -687,7 +687,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 826,
+                "stars": 827,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -810,7 +810,7 @@
             "id": 538119283,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-16T00:01:12Z",
+            "last_commit": "2026-09-19T22:37:25Z",
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
@@ -975,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5953,
+                "stars": 5952,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:21:23.259Z",
+    "last_updated": "2026-09-20T17:33:31.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
