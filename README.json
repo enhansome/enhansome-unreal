@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2677,
+                "stars": 2676,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -661,7 +661,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1762,
+                "stars": 1763,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4593,
+            "stars": 4594,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -850,7 +850,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 383,
+            "stars": 386,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -884,7 +884,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T12:52:30Z",
+            "last_commit": "2026-09-21T12:36:15Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:33:31.007Z",
+    "last_updated": "2026-09-21T19:38:41.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
