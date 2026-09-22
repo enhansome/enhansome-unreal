@@ -145,7 +145,7 @@
                 "open_issues": 11,
                 "owner": "mklabs",
                 "repo": "ue4-targetsystemplugin",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "unreal",
                   "unreal-engine",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2676,
+                "stars": 2678,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -248,7 +248,7 @@
                 "open_issues": 87,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 976,
+                "stars": 977,
                 "topics": [
                   "nodejs",
                   "plugin",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4594,
+            "stars": 4596,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-17T02:27:26Z",
+            "last_commit": "2026-09-22T04:20:48Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -937,7 +937,7 @@
                 "open_issues": 51,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6310,
+                "stars": 6312,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -975,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5952,
+                "stars": 5954,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:38:41.233Z",
+    "last_updated": "2026-09-22T18:11:48.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
