@@ -683,7 +683,7 @@
                 "id": 189371379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T09:58:47Z",
+                "last_commit": "2026-09-23T13:06:03Z",
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4596,
+            "stars": 4597,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -846,7 +846,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:20:48Z",
+            "last_commit": "2026-09-23T05:56:21Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -934,10 +934,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-10-05T18:32:26Z",
-                "open_issues": 51,
+                "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6312,
+                "stars": 6313,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -975,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5954,
+                "stars": 5955,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:11:48.067Z",
+    "last_updated": "2026-09-23T18:30:37.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
