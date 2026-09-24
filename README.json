@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1495,
+                "stars": 1496,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -245,10 +245,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-14T21:13:39Z",
-                "open_issues": 87,
+                "open_issues": 89,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 977,
+                "stars": 978,
                 "topics": [
                   "nodejs",
                   "plugin",
@@ -683,7 +683,7 @@
                 "id": 189371379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T13:06:03Z",
+                "last_commit": "2026-09-24T09:26:56Z",
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
@@ -850,7 +850,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -937,7 +937,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6313,
+                "stars": 6314,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -975,7 +975,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5955,
+                "stars": 5954,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:30:37.631Z",
+    "last_updated": "2026-09-24T18:31:52.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
