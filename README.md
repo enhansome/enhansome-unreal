@@ -31,7 +31,7 @@
 
 ### Gameplay
 
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,496 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,498 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
 * [SPUD](https://github.com/sinbad/SPUD) ⭐ 611 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 266 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
@@ -43,10 +43,10 @@
 
 ### Networking
 
-* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 978 | 🐛 89 | 🌐 C++ | 📅 2026-08-14 - Socket.IO client plugin for Unreal Engine.
-* [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) ⭐ 382 | 🐛 11 | 🌐 C++ | 📅 2024-12-10 - Convenience UDP wrapper for Unreal Engine.
+* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 978 | 🐛 77 | 🌐 C++ | 📅 2026-09-25 - Socket.IO client plugin for Unreal Engine.
+* [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) ⭐ 382 | 🐛 0 | 🌐 C++ | 📅 2026-09-25 - Convenience UDP wrapper for Unreal Engine.
 * [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) ⭐ 126 | 🐛 14 | 🌐 C++ | 📅 2024-06-12 - Fetch API-inspired HTTP client for Unreal Engine.
-* [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) ⭐ 118 | 🐛 6 | 🌐 C++ | 📅 2025-07-11 - Convenience TCP wrapper for Unreal Engine.
+* [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-09-25 - Convenience TCP wrapper for Unreal Engine.
 * [SMN2](https://github.com/Reddy-dev/SMN2) ⭐ 113 | 🐛 0 | 🌐 C++ | 📅 2026-07-26 - Character movement network prediction.
 * [Socketer](https://github.com/How2Compute/Socketer) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2024-04-24 - A TCP socket blueprint library for Unreal Engine.
 
@@ -57,7 +57,7 @@
 
 ### UI
 
-* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 183 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
+* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 184 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
 * [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) ⭐ 137 | 🐛 1 | 🌐 C++ | 📅 2026-06-30 - Automatically generate UI for your game settings.
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) ⭐ 136 | 🐛 6 | 🌐 C++ | 📅 2024-09-08 - A versatile and performant alternative to property bindings.
 
@@ -65,18 +65,19 @@
 
 * [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,606 | 🐛 114 | 🌐 C++ | 📅 2026-09-03 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
+* [Micromegas](https://github.com/madesroches/micromegas) ⭐ 55 | 🐛 62 | 🌐 Rust | 📅 2026-09-25 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,763 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,764 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 827 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,597 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 810 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,599 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 811 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 442 | 🐛 0 | 🌐 C++ | 📅 2026-09-19 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 387 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [ALIS](https://github.com/fallintodusk/alis) ⭐ 18 | 🐛 5 | 🌐 C++ | 📅 2026-09-21 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
@@ -131,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
