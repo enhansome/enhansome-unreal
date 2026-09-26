@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 611,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2678,
+                "stars": 2679,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -248,7 +248,7 @@
                 "open_issues": 77,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 978,
+                "stars": 979,
                 "topics": [
                   "nodejs",
                   "plugin",
@@ -574,7 +574,7 @@
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:44:47Z",
-                "open_issues": 62,
+                "last_commit": "2026-09-25T22:53:45Z",
+                "open_issues": 61,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 55,
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 827,
+                "stars": 829,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4599,
+            "stars": 4601,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "game",
               "game-development",
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6314,
+                "stars": 6315,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:47:33.710Z",
+    "last_updated": "2026-09-26T17:53:35.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
