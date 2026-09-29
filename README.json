@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2681,
+                "stars": 2680,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T20:01:57Z",
+                "last_commit": "2026-09-29T04:00:08Z",
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 830,
+                "stars": 831,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4602,
+            "stars": 4606,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 811,
+            "stars": 812,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6314,
+                "stars": 6315,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5958,
+                "stars": 5959,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:39:19.356Z",
+    "last_updated": "2026-09-29T19:32:51.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1044,7 +1044,7 @@
       "open_issues": 2,
       "owner": "Coop56",
       "repo": "awesome-unreal",
-      "stars": 232,
+      "stars": 233,
       "topics": [
         "awesome",
         "awesome-list",
