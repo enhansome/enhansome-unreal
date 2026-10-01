@@ -39,7 +39,7 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,681 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,680 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
@@ -70,9 +70,9 @@
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,267 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,764 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 831 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
-* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,765 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 832 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 388 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
@@ -80,7 +80,7 @@
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 813 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 444 | 🐛 0 | 🌐 C++ | 📅 2026-09-19 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 389 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 19 | 🐛 5 | 🌐 C++ | 📅 2026-09-21 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 20 | 🐛 5 | 🌐 C++ | 📅 2026-09-21 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

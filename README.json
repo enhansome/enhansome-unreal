@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2681,
+                "stars": 2680,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1764,
+                "stars": 1765,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -768,7 +768,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "cpp",
               "data-driven",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:33:12.269Z",
+    "last_updated": "2026-10-01T19:40:11.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
