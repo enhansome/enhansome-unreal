@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2680,
+                "stars": 2682,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T04:00:08Z",
+                "last_commit": "2026-10-02T15:44:53Z",
                 "open_issues": 114,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 832,
+                "stars": 833,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4608,
+            "stars": 4609,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -926,11 +926,11 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T12:36:15Z",
+            "last_commit": "2026-10-02T11:29:36Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "cpp",
               "data-driven",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5959,
+                "stars": 5960,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:40:11.027Z",
+    "last_updated": "2026-10-02T19:26:15.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
