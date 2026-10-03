@@ -624,13 +624,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Unified observability for logs, metrics and traces — ~20 ns instrumentation (Rust, Unreal Engine 5), OTLP ingestion, SQL analytics on DataFusion over Parquet, presentation through notebooks, Grafana and Python. Self-hosted.",
+                "description": "Unified observability for logs, metrics and traces — low overhead instrumentation (Rust, Unreal Engine 5), OTLP ingestion, SQL analytics on DataFusion over Parquet, presentation through notebooks, Grafana and Python. Self-hosted.",
                 "homepage": "https://micromegas.info",
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T22:53:45Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-03T02:22:02Z",
+                "open_issues": 63,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 55,
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:26:15.675Z",
+    "last_updated": "2026-10-03T05:15:52.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
