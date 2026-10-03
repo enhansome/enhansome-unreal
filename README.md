@@ -57,7 +57,7 @@
 
 ### UI
 
-* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 184 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
+* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 183 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
 * [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) ⭐ 137 | 🐛 1 | 🌐 C++ | 📅 2026-06-30 - Automatically generate UI for your game settings.
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) ⭐ 136 | 🐛 6 | 🌐 C++ | 📅 2024-09-08 - A versatile and performant alternative to property bindings.
 
@@ -65,7 +65,7 @@
 
 * [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,607 | 🐛 114 | 🌐 C++ | 📅 2026-10-02 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
-* [Micromegas](https://github.com/madesroches/micromegas) ⭐ 55 | 🐛 63 | 🌐 Rust | 📅 2026-10-03 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
+* [Micromegas](https://github.com/madesroches/micromegas) ⭐ 56 | 🐛 64 | 🌐 Rust | 📅 2026-10-03 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 
 ### World Building
 
@@ -76,7 +76,7 @@
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,609 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,610 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 813 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 444 | 🐛 0 | 🌐 C++ | 📅 2026-09-19 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 390 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
