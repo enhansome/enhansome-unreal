@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T14:20:26Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-04T15:35:23Z",
+                "open_issues": 62,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6316,
+                "stars": 6318,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:06:12.209Z",
+    "last_updated": "2026-10-04T18:16:16.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
