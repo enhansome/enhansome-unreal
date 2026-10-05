@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2682,
+                "stars": 2683,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -461,7 +461,7 @@
                 "open_issues": 2,
                 "owner": "JanSeliv",
                 "repo": "CustomShapeButton",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "button",
                   "button-widget",
@@ -500,7 +500,7 @@
                 "open_issues": 1,
                 "owner": "JanSeliv",
                 "repo": "SettingsWidgetConstructor",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -541,7 +541,7 @@
                 "open_issues": 6,
                 "owner": "DoubleDeez",
                 "repo": "MDFastBinding",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "binding",
                   "ue5-plugin",
@@ -629,11 +629,11 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T15:35:23Z",
-                "open_issues": 62,
+                "last_commit": "2026-10-05T20:34:34Z",
+                "open_issues": 63,
                 "owner": "madesroches",
                 "repo": "micromegas",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "apache-arrow",
                   "apm",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4610,
+            "stars": 4611,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6318,
+                "stars": 6319,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5960,
+                "stars": 5961,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:16:16.089Z",
+    "last_updated": "2026-10-05T21:33:52.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
