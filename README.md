@@ -31,7 +31,7 @@
 
 ### Gameplay
 
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,500 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,499 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
 * [SPUD](https://github.com/sinbad/SPUD) ⭐ 612 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 266 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
@@ -39,7 +39,7 @@
 
 ### Locomotion
 
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,684 | 🐛 18 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) ⭐ 2,682 | 🐛 17 | 🌐 C++ | 📅 2024-07-10 - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
@@ -70,17 +70,17 @@
 ### World Building
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
-* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,765 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,764 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 833 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
-* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 388 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,613 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 813 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
-* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 445 | 🐛 0 | 🌐 C++ | 📅 2026-09-19 - Multiplayer shooter built using best practices from Lyra.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,614 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 812 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 445 | 🐛 0 | 🌐 C++ | 📅 2026-10-06 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 390 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 21 | 🐛 5 | 🌐 C++ | 📅 2026-10-02 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 21 | 🐛 5 | 🌐 C++ | 📅 2026-10-06 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 * [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,319 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,963 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,961 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
 * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine) - The official Unreal Engine 5 documentation.

@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1500,
+                "stars": 1499,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -197,10 +197,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-10T21:38:04Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2684,
+                "stars": 2682,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1765,
+                "stars": 1764,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -768,7 +768,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 388,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4613,
+            "stars": 4614,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 813,
+            "stars": 812,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -852,7 +852,7 @@
             "id": 538119283,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-19T22:37:25Z",
+            "last_commit": "2026-10-06T17:49:05Z",
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
@@ -926,7 +926,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T11:29:36Z",
+            "last_commit": "2026-10-06T11:18:37Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5963,
+                "stars": 5961,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:22.975Z",
+    "last_updated": "2026-10-06T19:40:34.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
