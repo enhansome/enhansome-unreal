@@ -31,7 +31,7 @@
 
 ### Gameplay
 
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,499 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,500 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
 * [SPUD](https://github.com/sinbad/SPUD) ⭐ 612 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 266 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
@@ -63,7 +63,7 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,607 | 🐛 114 | 🌐 C++ | 📅 2026-10-06 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,607 | 🐛 114 | 🌐 C++ | 📅 2026-10-07 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 * [Micromegas](https://github.com/madesroches/micromegas) ⭐ 57 | 🐛 63 | 🌐 Rust | 📅 2026-10-05 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 
@@ -71,12 +71,12 @@
 
 * [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,268 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,764 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
-* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 833 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 832 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,614 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,615 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 812 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 445 | 🐛 0 | 🌐 C++ | 📅 2026-10-06 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 390 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
