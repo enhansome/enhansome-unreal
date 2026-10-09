@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1500,
+                "stars": 1497,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -244,8 +244,8 @@
                 "id": 58654645,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T05:57:15Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-09T04:26:06Z",
+                "open_issues": 81,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
                 "stars": 979,
@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3746,
+                "stars": 3747,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -500,7 +500,7 @@
                 "open_issues": 1,
                 "owner": "JanSeliv",
                 "repo": "SettingsWidgetConstructor",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T04:00:06Z",
+                "last_commit": "2026-10-09T17:32:48Z",
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1764,
+                "stars": 1763,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4614,
+            "stars": 4613,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 812,
+            "stars": 813,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "game",
               "game-development",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6321,
+                "stars": 6320,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5963,
+                "stars": 5965,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:01:57.309Z",
+    "last_updated": "2026-10-09T19:36:34.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1044,7 +1044,7 @@
       "open_issues": 2,
       "owner": "Coop56",
       "repo": "awesome-unreal",
-      "stars": 233,
+      "stars": 234,
       "topics": [
         "awesome",
         "awesome-list",
