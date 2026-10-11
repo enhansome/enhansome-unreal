@@ -32,7 +32,7 @@
 ### Gameplay
 
 * [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,497 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
-* [SPUD](https://github.com/sinbad/SPUD) ⭐ 612 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
+* [SPUD](https://github.com/sinbad/SPUD) ⭐ 614 | 🐛 16 | 🌐 C++ | 📅 2026-08-24 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 266 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
 * [SUQS](https://github.com/sinbad/SUQS) ⭐ 179 | 🐛 0 | 🌐 C++ | 📅 2026-09-07 - Data driven quest system.
@@ -43,7 +43,7 @@
 
 ### Networking
 
-* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 979 | 🐛 77 | 🌐 C++ | 📅 2026-10-10 - Socket.IO client plugin for Unreal Engine.
+* [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) ⭐ 979 | 🐛 77 | 🌐 C++ | 📅 2026-10-11 - Socket.IO client plugin for Unreal Engine.
 * [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) ⭐ 382 | 🐛 0 | 🌐 C++ | 📅 2026-09-25 - Convenience UDP wrapper for Unreal Engine.
 * [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) ⭐ 126 | 🐛 14 | 🌐 C++ | 📅 2024-06-12 - Fetch API-inspired HTTP client for Unreal Engine.
 * [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-09-25 - Convenience TCP wrapper for Unreal Engine.
@@ -69,16 +69,16 @@
 
 ### World Building
 
-* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,269 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
+* [Street Map](https://github.com/ue4plugins/StreetMap) ⭐ 2,270 | 🐛 14 | 🌐 C++ | 📅 2024-05-23 - Import OpenStreetMap XML data into your Unreal Engine project.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) ⭐ 1,763 | 🐛 274 | 🌐 C++ | 📅 2026-06-24 - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 * [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) ⭐ 832 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - A plugin to build procedural dungeons.
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) ⭐ 387 | 🐛 6 | 🌐 C++ | 📅 2026-02-17 - Smooth voxel terrain plugin.
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,612 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,614 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 813 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
-* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 445 | 🐛 0 | 🌐 C++ | 📅 2026-10-10 - Multiplayer shooter built using best practices from Lyra.
+* [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 446 | 🐛 0 | 🌐 C++ | 📅 2026-10-10 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 391 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [ALIS](https://github.com/fallintodusk/alis) ⭐ 21 | 🐛 5 | 🌐 C++ | 📅 2026-10-08 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
