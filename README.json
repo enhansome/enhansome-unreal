@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -168,7 +168,7 @@
                 "id": 344882161,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-07T09:20:21Z",
+                "last_commit": "2026-10-13T10:56:24Z",
                 "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2683,
+                "stars": 2685,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T04:00:08Z",
+                "last_commit": "2026-10-13T04:00:06Z",
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:34:34Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-13T19:34:30Z",
+                "open_issues": 65,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 57,
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2271,
+                "stars": 2272,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1762,
+                "stars": 1763,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -768,7 +768,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 388,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4616,
+            "stars": 4618,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 813,
+            "stars": 814,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6320,
+                "stars": 6321,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:11:29.571Z",
+    "last_updated": "2026-10-13T20:18:26.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
