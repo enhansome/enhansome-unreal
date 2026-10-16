@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2684,
+                "stars": 2683,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T04:00:06Z",
+                "last_commit": "2026-10-16T04:00:09Z",
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T15:36:27Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-16T18:13:25Z",
+                "open_issues": 68,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1763,
+                "stars": 1764,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4617,
+            "stars": 4618,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "game",
               "game-development",
@@ -926,7 +926,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T15:19:48Z",
+            "last_commit": "2026-10-15T21:37:17Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6321,
+                "stars": 6322,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:29:01.148Z",
+    "last_updated": "2026-10-16T18:15:49.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
