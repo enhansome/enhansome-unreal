@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1501,
+                "stars": 1503,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2251,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -574,7 +574,7 @@
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1609,
+                "stars": 1610,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T23:51:20Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-18T16:57:21Z",
+                "open_issues": 67,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -926,7 +926,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T21:37:17Z",
+            "last_commit": "2026-10-18T06:30:10Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6322,
+                "stars": 6323,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5970,
+                "stars": 5972,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:25:19.580Z",
+    "last_updated": "2026-10-18T17:27:53.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1044,7 +1044,7 @@
       "open_issues": 2,
       "owner": "Coop56",
       "repo": "awesome-unreal",
-      "stars": 235,
+      "stars": 236,
       "topics": [
         "awesome",
         "awesome-list",
