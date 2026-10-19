@@ -100,7 +100,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-15T12:02:24Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "sinbad",
                 "repo": "SPUD",
                 "stars": 613,
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2683,
+                "stars": 2684,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T16:57:21Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-19T17:48:44Z",
+                "open_issues": 65,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -725,11 +725,11 @@
                 "id": 189371379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T09:26:56Z",
+                "last_commit": "2026-10-19T17:06:12Z",
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-08T15:41:20Z",
+            "last_commit": "2026-10-19T17:57:09Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4620,
+            "stars": 4621,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "cpp",
               "data-driven",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5972,
+                "stars": 5973,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:27:53.407Z",
+    "last_updated": "2026-10-19T20:03:33.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
