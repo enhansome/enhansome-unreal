@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T17:48:44Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-20T15:48:52Z",
+                "open_issues": 64,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1766,
+                "stars": 1767,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -725,11 +725,11 @@
                 "id": 189371379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T17:06:12Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-19T23:05:41Z",
+                "open_issues": 5,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-19T17:57:09Z",
+            "last_commit": "2026-10-20T15:05:27Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4621,
+            "stars": 4623,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "cpp",
               "data-driven",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6323,
+                "stars": 6325,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5973,
+                "stars": 5974,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:03:33.391Z",
+    "last_updated": "2026-10-20T18:35:06.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
