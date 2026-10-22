@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2251,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T00:22:08Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-22T16:08:05Z",
+                "open_issues": 66,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1767,
+                "stars": 1766,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-21T14:55:17Z",
+            "last_commit": "2026-10-21T18:59:50Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4626,
+            "stars": 4628,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6325,
+                "stars": 6326,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5976,
+                "stars": 5975,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:48:18.171Z",
+    "last_updated": "2026-10-22T18:41:32.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
