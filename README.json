@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2684,
+                "stars": 2685,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3746,
+                "stars": 3745,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -574,7 +574,7 @@
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -629,7 +629,7 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T16:08:05Z",
+                "last_commit": "2026-10-23T12:59:52Z",
                 "open_issues": 66,
                 "owner": "madesroches",
                 "repo": "micromegas",
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1766,
+                "stars": 1767,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -796,7 +796,7 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-21T18:59:50Z",
+            "last_commit": "2026-10-23T14:51:07Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "JediKnightChan",
             "repo": "EternalCrusadeResurrection",
-            "stars": 447,
+            "stars": 446,
             "topics": [
               "game",
               "game-development",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5975,
+                "stars": 5978,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:41:32.632Z",
+    "last_updated": "2026-10-23T18:35:58.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
