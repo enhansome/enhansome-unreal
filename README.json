@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -629,7 +629,7 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T12:59:52Z",
+                "last_commit": "2026-10-24T17:30:03Z",
                 "open_issues": 66,
                 "owner": "madesroches",
                 "repo": "micromegas",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4628,
+            "stars": 4629,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "cpp",
               "data-driven",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:35:58.557Z",
+    "last_updated": "2026-10-24T17:31:18.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",

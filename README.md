@@ -53,7 +53,7 @@
 ### Scripting
 
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) ⭐ 3,745 | 🐛 159 | 📅 2023-07-20 - JavaScript runtime built for Unreal Engine.
-* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,249 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
+* [Unreal Rust](https://github.com/MaikKlein/unreal-rust) ⭐ 2,250 | 🐛 22 | 🌐 Rust | 📅 2026-03-07 - Opinionated Rust integration for Unreal Engine.
 
 ### UI
 
@@ -65,7 +65,7 @@
 
 * [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,611 | 🐛 115 | 🌐 C++ | 📅 2026-10-17 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
-* [Micromegas](https://github.com/madesroches/micromegas) ⭐ 56 | 🐛 66 | 🌐 Rust | 📅 2026-10-23 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
+* [Micromegas](https://github.com/madesroches/micromegas) ⭐ 56 | 🐛 66 | 🌐 Rust | 📅 2026-10-24 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 
 ### World Building
 
@@ -76,11 +76,11 @@
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,628 | 🐛 2 | 🌐 C++ | 📅 2026-10-23 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,629 | 🐛 2 | 🌐 C++ | 📅 2026-10-23 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 814 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 446 | 🐛 0 | 🌐 C++ | 📅 2026-10-17 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 392 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 23 | 🐛 5 | 🌐 C++ | 📅 2026-10-18 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 24 | 🐛 5 | 🌐 C++ | 📅 2026-10-18 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
