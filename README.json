@@ -574,7 +574,7 @@
                 "open_issues": 115,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T17:30:03Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-24T18:08:17Z",
+                "open_issues": 64,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2272,
+                "stars": 2271,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4629,
+            "stars": 4632,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6326,
+                "stars": 6329,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5978,
+                "stars": 5981,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:31:18.812Z",
+    "last_updated": "2026-10-25T17:44:43.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
