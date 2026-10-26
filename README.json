@@ -99,8 +99,8 @@
                 "id": 331984761,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:02:24Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-26T16:54:18Z",
+                "open_issues": 18,
                 "owner": "sinbad",
                 "repo": "SPUD",
                 "stars": 613,
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T18:08:17Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-26T18:59:49Z",
+                "open_issues": 61,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4632,
+            "stars": 4637,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6329,
+                "stars": 6331,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5981,
+                "stars": 5983,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:44:43.894Z",
+    "last_updated": "2026-10-26T20:02:45.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1044,7 +1044,7 @@
       "open_issues": 2,
       "owner": "Coop56",
       "repo": "awesome-unreal",
-      "stars": 236,
+      "stars": 234,
       "topics": [
         "awesome",
         "awesome-list",
