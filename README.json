@@ -99,8 +99,8 @@
                 "id": 331984761,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-26T16:54:18Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-27T10:33:58Z",
+                "open_issues": 17,
                 "owner": "sinbad",
                 "repo": "SPUD",
                 "stars": 613,
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:59:49Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-27T19:26:08Z",
+                "open_issues": 63,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1767,
+                "stars": 1766,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-23T14:51:07Z",
+            "last_commit": "2026-10-27T12:29:50Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4637,
+            "stars": 4640,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5983,
+                "stars": 5984,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:02:45.352Z",
+    "last_updated": "2026-10-27T19:32:23.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
