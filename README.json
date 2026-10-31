@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2683,
+                "stars": 2686,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3745,
+                "stars": 3746,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -630,7 +630,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T14:58:28Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4647,
+            "stars": 4650,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "cpp",
               "data-driven",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6332,
+                "stars": 6331,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:34:29.942Z",
+    "last_updated": "2026-10-31T18:40:46.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
