@@ -63,7 +63,7 @@
 
 ### Utilities
 
-* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,615 | 🐛 115 | 🌐 C++ | 📅 2026-10-17 - A plugin to allow integration with Houdini Digital Assets workflows.
+* [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) ⭐ 1,615 | 🐛 116 | 🌐 C++ | 📅 2026-10-17 - A plugin to allow integration with Houdini Digital Assets workflows.
 * [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) ⭐ 282 | 🐛 14 | 🌐 C++ | 📅 2024-06-26 - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 * [Micromegas](https://github.com/madesroches/micromegas) ⭐ 56 | 🐛 62 | 🌐 Rust | 📅 2026-10-30 - Telemetry plugin and self-hosted backend that ships UE\_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 
@@ -76,8 +76,8 @@
 
 ## Projects
 
-* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,650 | 🐛 2 | 🌐 C++ | 📅 2026-10-27 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
-* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 815 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
+* [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) ⭐ 4,651 | 🐛 2 | 🌐 C++ | 📅 2026-10-27 - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
+* [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 816 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 447 | 🐛 0 | 🌐 C++ | 📅 2026-10-17 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 392 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 * [ALIS](https://github.com/fallintodusk/alis) ⭐ 25 | 🐛 5 | 🌐 C++ | 📅 2026-10-18 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
