@@ -99,7 +99,7 @@
                 "id": 331984761,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-27T10:33:58Z",
+                "last_commit": "2026-11-03T11:33:38Z",
                 "open_issues": 17,
                 "owner": "sinbad",
                 "repo": "SPUD",
@@ -197,7 +197,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-10T21:38:04Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
                 "stars": 2686,
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:58:28Z",
-                "open_issues": 62,
+                "last_commit": "2026-11-03T02:42:04Z",
+                "open_issues": 66,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-02T14:38:46Z",
+            "last_commit": "2026-11-03T12:54:24Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4653,
+            "stars": 4654,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -926,7 +926,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T06:30:10Z",
+            "last_commit": "2026-11-03T07:23:16Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6333,
+                "stars": 6334,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5988,
+                "stars": 5990,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:50:27.127Z",
+    "last_updated": "2026-11-03T20:33:28.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
