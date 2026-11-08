@@ -32,7 +32,7 @@
 ### Gameplay
 
 * [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) ⭐ 1,504 | 🐛 3 | 🌐 C++ | 📅 2025-06-08 - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
-* [SPUD](https://github.com/sinbad/SPUD) ⭐ 614 | 🐛 17 | 🌐 C++ | 📅 2026-11-03 - Save game state and streaming level persistence solution.
+* [SPUD](https://github.com/sinbad/SPUD) ⭐ 615 | 🐛 17 | 🌐 C++ | 📅 2026-11-03 - Save game state and streaming level persistence solution.
 * [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) ⭐ 353 | 🐛 9 | 🌐 C++ | 📅 2025-08-04 - Custom gravity plugin.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) ⭐ 266 | 🐛 11 | 🌐 C++ | 📅 2026-06-17 - Dark Souls inspired camera lock on and targeting system plugin.
 * [SUQS](https://github.com/sinbad/SUQS) ⭐ 180 | 🐛 1 | 🌐 C++ | 📅 2026-10-15 - Data driven quest system.
@@ -58,7 +58,7 @@
 ### UI
 
 * [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) ⭐ 185 | 🐛 2 | 🌐 C++ | 📅 2026-04-20 - Allows you to make buttons of any shape.
-* [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) ⭐ 138 | 🐛 1 | 🌐 C++ | 📅 2026-06-30 - Automatically generate UI for your game settings.
+* [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) ⭐ 139 | 🐛 1 | 🌐 C++ | 📅 2026-06-30 - Automatically generate UI for your game settings.
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) ⭐ 137 | 🐛 6 | 🌐 C++ | 📅 2024-09-08 - A versatile and performant alternative to property bindings.
 
 ### Utilities
@@ -80,15 +80,15 @@
 * [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) ⭐ 816 | 🐛 5 | 🌐 C++ | 📅 2024-02-26 - An example game built using the Gameplay Ability System.
 * [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) ⭐ 448 | 🐛 0 | 🌐 C++ | 📅 2026-10-17 - Multiplayer shooter built using best practices from Lyra.
 * [Bomber](https://github.com/JanSeliv/Bomber) ⭐ 393 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-* [ALIS](https://github.com/fallintodusk/alis) ⭐ 26 | 🐛 5 | 🌐 C++ | 📅 2026-11-03 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
+* [ALIS](https://github.com/fallintodusk/alis) ⭐ 27 | 🐛 5 | 🌐 C++ | 📅 2026-11-03 - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 * [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
 
 ### Articles & Documentation
 
-* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,335 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,990 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
+* [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) ⭐ 6,334 | 🐛 47 | 📅 2023-10-05 - Guidelines for making Unreal Engine projects more consistent.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,991 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 - Helps fill in the gaps of the official Gameplay Ability System documentation.
 * [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 * [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
 * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine) - The official Unreal Engine 5 documentation.
@@ -132,4 +132,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
