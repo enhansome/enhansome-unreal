@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1504,
+                "stars": 1502,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2688,
+                "stars": 2689,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -630,7 +630,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T14:42:16Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4658,
+            "stars": 4659,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5997,
+                "stars": 5998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:31:16.139Z",
+    "last_updated": "2026-11-13T20:56:36.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
