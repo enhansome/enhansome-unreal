@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "hollsteinm",
                 "repo": "ReasonablePlanningAI",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1502,
+                "stars": 1503,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -433,7 +433,7 @@
                 "open_issues": 22,
                 "owner": "MaikKlein",
                 "repo": "unreal-rust",
-                "stars": 2250,
+                "stars": 2251,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T14:42:16Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-13T22:53:26Z",
+                "open_issues": 72,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -768,7 +768,7 @@
                 "open_issues": 6,
                 "owner": "bw2012",
                 "repo": "UnrealSandboxTerrain",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4659,
+            "stars": 4660,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6335,
+                "stars": 6337,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5998,
+                "stars": 6000,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:56:36.084Z",
+    "last_updated": "2026-11-14T19:21:48.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
