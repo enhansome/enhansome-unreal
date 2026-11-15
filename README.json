@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -103,7 +103,7 @@
                 "open_issues": 17,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 615,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -172,7 +172,7 @@
                 "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2689,
+                "stars": 2688,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T22:53:26Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-15T15:39:02Z",
+                "open_issues": 70,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4660,
+            "stars": 4661,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 817,
+            "stars": 820,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:21:48.559Z",
+    "last_updated": "2026-11-15T19:53:28.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
@@ -1041,7 +1041,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-25T17:56:23Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Coop56",
       "repo": "awesome-unreal",
       "stars": 235,
