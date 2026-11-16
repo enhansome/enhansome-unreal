@@ -629,7 +629,7 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T15:39:02Z",
+                "last_commit": "2026-11-16T20:58:36Z",
                 "open_issues": 70,
                 "owner": "madesroches",
                 "repo": "micromegas",
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2272,
+                "stars": 2274,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -725,11 +725,11 @@
                 "id": 189371379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T13:03:05Z",
+                "last_commit": "2026-11-16T16:49:55Z",
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4661,
+            "stars": 4663,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -926,7 +926,7 @@
             "id": 1179036752,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T09:57:16Z",
+            "last_commit": "2026-11-16T11:08:12Z",
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6337,
+                "stars": 6336,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:53:28.392Z",
+    "last_updated": "2026-11-16T23:27:34.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
