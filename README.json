@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1504,
+                "stars": 1503,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -172,7 +172,7 @@
                 "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
-                "stars": 181,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -570,8 +570,8 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T05:00:06Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-17T05:00:06Z",
+                "open_issues": 116,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
                 "stars": 1617,
@@ -629,7 +629,7 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T20:58:36Z",
+                "last_commit": "2026-11-17T15:43:17Z",
                 "open_issues": 70,
                 "owner": "madesroches",
                 "repo": "micromegas",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-12T13:53:21Z",
+            "last_commit": "2026-11-17T11:10:36Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4663,
+            "stars": 4664,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -930,7 +930,7 @@
             "open_issues": 5,
             "owner": "fallintodusk",
             "repo": "alis",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "cpp",
               "data-driven",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6336,
+                "stars": 6337,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 6000,
+                "stars": 5999,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:27:34.292Z",
+    "last_updated": "2026-11-17T22:32:04.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
