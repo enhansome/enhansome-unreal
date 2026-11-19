@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1503,
+                "stars": 1501,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -407,7 +407,7 @@
                 "open_issues": 159,
                 "owner": "ncsoft",
                 "repo": "Unreal.js",
-                "stars": 3745,
+                "stars": 3744,
                 "topics": [
                   "javascript",
                   "plugin",
@@ -574,7 +574,7 @@
                 "open_issues": 116,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T21:32:53Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-19T19:41:48Z",
+                "open_issues": 72,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 56,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1773,
+                "stars": 1772,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 845,
+                "stars": 844,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4666,
+            "stars": 4667,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6337,
+                "stars": 6336,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:12:45.740Z",
+    "last_updated": "2026-11-19T22:21:13.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
