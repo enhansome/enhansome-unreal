@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4668,
+            "stars": 4669,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5998,
+                "stars": 5999,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:54:40.470Z",
+    "last_updated": "2026-11-21T20:37:22.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
