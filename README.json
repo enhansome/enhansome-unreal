@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2687,
+                "stars": 2688,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -574,7 +574,7 @@
                 "open_issues": 113,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
-                "stars": 1618,
+                "stars": 1620,
                 "topics": [
                   "houdini",
                   "houdini-digital-assets",
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4669,
+            "stars": 4670,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -979,7 +979,7 @@
                 "open_issues": 47,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6337,
+                "stars": 6339,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:37:22.552Z",
+    "last_updated": "2026-11-22T20:47:14.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
