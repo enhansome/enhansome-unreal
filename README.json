@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1502,
+                "stars": 1501,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -103,7 +103,7 @@
                 "open_issues": 17,
                 "owner": "sinbad",
                 "repo": "SPUD",
-                "stars": 615,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2688,
+                "stars": 2690,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -248,7 +248,7 @@
                 "open_issues": 80,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 979,
+                "stars": 978,
                 "topics": [
                   "nodejs",
                   "plugin",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T19:50:34Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-23T18:43:28Z",
+                "open_issues": 71,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 57,
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-18T20:25:07Z",
+            "last_commit": "2026-11-23T23:13:31Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4670,
+            "stars": 4671,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -835,7 +835,7 @@
             "open_issues": 5,
             "owner": "DruidMech",
             "repo": "GameplayAbilitySystem_Aura",
-            "stars": 821,
+            "stars": 820,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 393,
+            "stars": 392,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -1017,7 +1017,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 5999,
+                "stars": 6001,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:47:14.676Z",
+    "last_updated": "2026-11-24T01:46:50.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
