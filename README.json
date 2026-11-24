@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "getnamo",
                 "repo": "UDP-Unreal",
-                "stars": 382,
+                "stars": 383,
                 "topics": [
                   "networking",
                   "real-time",
@@ -571,7 +571,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T15:51:41Z",
-                "open_issues": 113,
+                "open_issues": 110,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
                 "stars": 1620,
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:43:28Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-24T20:24:48Z",
+                "open_issues": 77,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 57,
@@ -729,7 +729,7 @@
                 "open_issues": 4,
                 "owner": "BenPyton",
                 "repo": "ProceduralDungeon",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "cpp",
                   "dungeon-generator",
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-23T23:13:31Z",
+            "last_commit": "2026-11-24T08:49:05Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4671,
+            "stars": 4672,
             "topics": [
               "3d",
               "c-plus-plus",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:46:50.887Z",
+    "last_updated": "2026-11-24T23:34:55.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
