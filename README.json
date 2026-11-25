@@ -570,7 +570,7 @@
                 "id": 18605826,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T15:51:41Z",
+                "last_commit": "2026-11-25T05:00:06Z",
                 "open_issues": 110,
                 "owner": "sideeffects",
                 "repo": "HoudiniEngineForUnreal",
@@ -629,7 +629,7 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T20:24:48Z",
+                "last_commit": "2026-11-25T22:15:52Z",
                 "open_issues": 77,
                 "owner": "madesroches",
                 "repo": "micromegas",
@@ -682,7 +682,7 @@
                 "open_issues": 14,
                 "owner": "MikeFricker",
                 "repo": "StreetMap",
-                "stars": 2274,
+                "stars": 2273,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1772,
+                "stars": 1773,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -888,7 +888,7 @@
             "id": 188085654,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-23T05:56:21Z",
+            "last_commit": "2026-11-25T05:50:14Z",
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
@@ -976,10 +976,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-10-05T18:32:26Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6339,
+                "stars": 6340,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:34:55.008Z",
+    "last_updated": "2026-11-25T23:11:45.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
