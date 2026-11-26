@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "ProjectBorealis",
                 "repo": "PBCharacterMovement",
-                "stars": 1501,
+                "stars": 1500,
                 "topics": [
                   "half-life",
                   "half-life-2",
@@ -200,7 +200,7 @@
                 "open_issues": 18,
                 "owner": "PanicPetal",
                 "repo": "ALS-Community",
-                "stars": 2690,
+                "stars": 2691,
                 "topics": [
                   "advanced-locomotion-system",
                   "als",
@@ -248,7 +248,7 @@
                 "open_issues": 80,
                 "owner": "getnamo",
                 "repo": "SocketIOClient-Unreal",
-                "stars": 978,
+                "stars": 977,
                 "topics": [
                   "nodejs",
                   "plugin",
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T22:15:52Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-26T18:34:49Z",
+                "open_issues": 75,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 57,
@@ -703,7 +703,7 @@
                 "open_issues": 274,
                 "owner": "VoxelPlugin",
                 "repo": "VoxelPluginFreeLegacy",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": [
                   "terrain",
                   "transvoxel",
@@ -796,25 +796,31 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-24T08:49:05Z",
+            "last_commit": "2026-11-26T14:00:36Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4672,
+            "stars": 4674,
             "topics": [
-              "3d",
               "c-plus-plus",
               "cpp",
-              "game",
+              "cpp-game",
+              "data-oriented-design",
               "game-ai",
               "game-development",
+              "game-networking",
+              "game-programming",
+              "gamedev",
+              "multiplayer",
               "multiplayer-networking",
+              "netcode",
               "roguelike",
-              "tutorial",
               "ue5",
               "ue5-game",
               "unreal-engine",
-              "unreal-engine-5"
+              "unreal-engine-5",
+              "unrealengine",
+              "unrealengine5"
             ]
           },
           "first_seen": "2026-08-28T23:36:54.166Z"
@@ -979,7 +985,7 @@
                 "open_issues": 46,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6340,
+                "stars": 6342,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1017,7 +1023,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 6001,
+                "stars": 6002,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1032,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:11:45.587Z",
+    "last_updated": "2026-11-26T23:10:05.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
