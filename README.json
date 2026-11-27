@@ -172,7 +172,7 @@
                 "open_issues": 0,
                 "owner": "sinbad",
                 "repo": "SUQS",
-                "stars": 183,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -629,8 +629,8 @@
                 "id": 749075394,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T18:34:49Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-27T00:14:56Z",
+                "open_issues": 74,
                 "owner": "madesroches",
                 "repo": "micromegas",
                 "stars": 57,
@@ -796,11 +796,11 @@
             "id": 293583556,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-26T14:00:36Z",
+            "last_commit": "2026-11-27T15:09:26Z",
             "open_issues": 2,
             "owner": "tomlooman",
             "repo": "ActionRoguelike",
-            "stars": 4674,
+            "stars": 4675,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -898,7 +898,7 @@
             "open_issues": 0,
             "owner": "JanSeliv",
             "repo": "Bomber",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "bomberman",
               "bomberman-game",
@@ -985,7 +985,7 @@
                 "open_issues": 46,
                 "owner": "Allar",
                 "repo": "ue5-style-guide",
-                "stars": 6342,
+                "stars": 6345,
                 "topics": [
                   "blueprint",
                   "lint",
@@ -1023,7 +1023,7 @@
                 "open_issues": 44,
                 "owner": "tranek",
                 "repo": "GASDocumentation",
-                "stars": 6002,
+                "stars": 6003,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:54.166Z"
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:10:05.721Z",
+    "last_updated": "2026-11-27T22:50:07.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Unreal Engine 5",
